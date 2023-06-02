@@ -16,6 +16,7 @@ Flag: No
 
 3. Steganalysis is the art of ______ and _____ _____ _____ using steganography
 ![image](https://github.com/AgentZn/CTF-Steg-room/assets/133791369/ee5caadf-7b53-4fff-8329-5bb306e464dc)
+
 Flag: discovering, rendering convert messages
 
 4. Aspect Ratio is the ratio of _____ to the height of an image or screen
