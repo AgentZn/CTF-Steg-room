@@ -29,3 +29,36 @@ It is otherwise known as the Most Significant Bit which therefores stands for MS
 
 Flag: MSB
 
+
+
+Exercise 2:
+1. If the height is 2 units, and the width is twice the height. What is the aspect ratio?
+
+2 x 2 = 4
+Formula of Aspect Ratio: W:H
+Flag: 4:2
+
+2. If the height of an image is 256 pixels, what is the pixels of the width
+
+Height -> 256 pixels
+Width -> 2 x 256 = 512 pixels
+Flag: 512
+
+3. No Flag
+
+4. What does this software allow you to do?
+
+![image](https://github.com/AgentZn/CTF-Steg-room/assets/133791369/4198b0ea-facd-4e44-8ac7-804ede4d2eff)
+
+Flag: Hide a file in a jpeg file
+
+5. Are you able to recover the hidden message afterwards?
+
+Flag: Yes
+
+6. What feature(s) allow you to do so?
+
+![image](https://github.com/AgentZn/CTF-Steg-room/assets/133791369/3577b69e-60a9-41ae-b3a6-ee9a3af160ff)
+
+
+Flag: Seek
